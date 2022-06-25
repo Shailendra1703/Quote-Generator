@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital@1&family=Courgette&family=Smooch&display=swap');
+body{
+    background:rgb(3, 47, 71);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Alegreya', serif;
+    font-size:20px;
+    
+}
+
+.card{
+    width:80%;
+    max-width: 700px;
+}
+.card-header{
+    padding: 20px;
+    font-size: 1.5rem;
+}
+.card-body{
+    padding:40px;
+}
+
